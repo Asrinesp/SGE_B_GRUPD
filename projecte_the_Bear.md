@@ -153,6 +153,58 @@ Així doncs, seguint el mateix exemple que fins ara, així es veuria un event cr
 
 ![Exemple d'entrada](img/Yoon/Events%20014.%20Exemple%20d'entrada.png) *. Exemple d'entrada*
 
+## Opcions de visualització
+
+A la pantalla inicial, un cop hem creat algun event, tenim diverses opcions de visualització.
+
+### Kanban
+
+Es mostren els events segons l'**estat en el que es troben**.
+
+![Visualització Kanban](img/Yoon/Events%20015.%20Vista%20kanban.png) *. Vista Kanban*
+
+### Calendari
+
+Es mostren els events dins d'un **calendari**.
+
+![Visualització calendari](img/Yoon/Events%20013.%20Visió%20calendari.png) *. Vista calendari*
+
+### Llista
+
+Es mostren els els events en una **llista**, ordenats per data.
+
+![Visualització per llista](img/Yoon/Events%20016.%20Vista%20llista.png) *. Vista en llista*
+
+### Gantt
+
+Es mostren els events en format de **diagrama de Gantt**, podent visualitzar per any, mes, setmana, etc.
+
+![Visualització en diagrama de Gantt](img/Yoon/Events%20017.%20Gantt.png) *. Vista en Gantt*
+
+### Taula dinàmica
+
+Es mostren els events amb el número màxim d'assistents i els assistents inscrits**a una taula**.
+
+![Visualització en taula dinàmica](img/Yoon/Events%20018.%20Taula.png) *. Vista en taula*
+
+### Gràfica
+
+Es mostren els events **a una gràfica** segons el número d'assistents inscrits o el número d'assistents màxims.
+
+![Visualització en gràfic](img/Yoon/Events%20019.%20Grafico.png) *. Vista en gràfic*
+
+### Mapa
+
+Es mostren els events en un mapa **segons la seva ubicació**.
+
+![Visualització en mapa](img/Yoon/Events%20020.%20Ubicació.png) *. Vista en mapa*
+
+### Acivitat
+
+Es mostren les **activitats pendents** i es poden **planificar activitts**.
+
+![Visualització d'activitats](img/Yoon/Events%20021.%20Activitats.png) *. Activitats*
+
 # Costos
 
 # Planificació
