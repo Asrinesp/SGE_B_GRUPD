@@ -115,6 +115,14 @@ Per **crear events**, l'únic que hem de fer és omplir els camps que siguin nec
 
 A la part superior dreta, podem seleccionar l'estat en el que es troba l'event. Això és interessant per la forma en la que es veuran despres les llistes dels events.
 
+## Entrades
+
+Aquí podem configurar les entrades de cada tipus que hi ha.
+
+En aquest exemple, només hi ha una, però podem afegir més.
+
+![Exemple d'entrada](img/Yoon/Events%20004.%20Apartat%20Entradas.png) *. Apartat d'entrades*
+
 # Costos
 
 # Planificació
