@@ -139,7 +139,11 @@ A l'apartat preguntes, es pot configurar les **dades que es demana a l'usuari** 
 
 ![Exemple de formulari d'inscripció](img/Yoon/Events%20009.%20Formulari%20d'inscripció.png) *. Exemple de formulari d'inscripció*
 
+## Notes
 
+En aquest apartat, podem indicar notes internes, ja siguin genèriques *(Nota)* o instruccions sobre com arribar, obertura, tancament, etc *(Instruccions de l'entrada)*
+
+![Captura de l'apartat Notes](img/Yoon/Events%20010.%20Notes%20de%20l'event.png) *. Imatge de l'apartat de notes*
 
 # Costos
 
