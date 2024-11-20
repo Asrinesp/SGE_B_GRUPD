@@ -113,15 +113,27 @@ Per **crear events**, l'únic que hem de fer és omplir els camps que siguin nec
 
 ![Crear un nou event](img/Yoon/Events%20002.%20Crear%20event.png) *. Creació d'events*
 
-A la part superior dreta, podem seleccionar l'estat en el que es troba l'event. Això és interessant per la forma en la que es veuran despres les llistes dels events.
+A la part superior dreta, podem seleccionar l'**estat** en el que es troba l'event. Això és interessant per la forma en la que es veuran despres les llistes dels events.
 
 ## Entrades
 
-Aquí podem configurar les entrades de cada tipus que hi ha.
+Aquí podem **configurar les entrades** de cada tipus que hi ha.
 
 En aquest exemple, només hi ha una, però podem afegir més.
 
 ![Exemple d'entrada](img/Yoon/Events%20004.%20Apartat%20Entradas.png) *. Apartat d'entrades*
+
+## Comunicació
+
+Des de l'apartat de comunicació podem configurar les **notificacions** que li arribaran a l'usuari, ja sigui per correu electrònic o per SMS.
+
+![Exemple de SMS](img/Yoon/Events%20007.%20Plantilla%20SMS.png) *. Exemple de SMS*
+
+Per correu electrònic, a més, podem afegir camps personalitzats, com el nom de l'usuari, la data de l'event, el tipus d'entrada, etc.
+
+![Exemple de correu electrònic](img/Yoon/Events%20008.%20Valors%20personalitzats.png) *. Exemple de correu electrònic*
+
+
 
 # Costos
 
