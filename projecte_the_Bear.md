@@ -145,6 +145,14 @@ En aquest apartat, podem indicar notes internes, ja siguin genèriques *(Nota)* 
 
 ![Captura de l'apartat Notes](img/Yoon/Events%20010.%20Notes%20de%20l'event.png) *. Imatge de l'apartat de notes*
 
+## Event creat
+
+Així doncs, seguint el mateix exemple que fins ara, així es veuria un event creat amb totes les seves dades i la seva entrada un cop t'has inscrit.
+
+![Exemple d'event creat](img/Yoon/Events%20011.%20Event%20complet.png) *. Exemple d'event creat*
+
+![Exemple d'entrada](img/Yoon/Events%20014.%20Exemple%20d'entrada.png) *. Exemple d'entrada*
+
 # Costos
 
 # Planificació
