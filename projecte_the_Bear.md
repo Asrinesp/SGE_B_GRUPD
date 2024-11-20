@@ -97,6 +97,24 @@ Al desplegable de configuració, podem veure diferents configuracions que podem 
 
 # Compres
 
+Un cop dins de compres a la part de dalt a l'esquerra podràs donar-lo a crear per fer el teu primer pressupost i et sortirà el següent:
+
+![Creació d'un presupost](img/Carlos/crearsolicitudpresupuesto.png)
+
+Un cop aquí dins podràs la identificació del proveïdor (Nom, NIF, correu electrònic o referència) i la referència del proveïdor. Després podreu especificar una data límit de comanda i una data de recepció.
+Seguit tindràs una llista dels productes, juntament amb una descripció la quantitat, el preu unitari més els impostos i al final un subtotal. Tot això per cada producte
+A la part final podràs definir els termes i condicions i sortiran la base imposable, els impostos i el total.
+
+![Llista pressupost](img/Carlos/Listapresupustos.png)
+
+Un cop afegit tindràs una llista de tots els pressupostos creats on podràs desar a favorits si són molt importants i canviar l'estat del pressupost quan sigui necessari fent clic al mateix i et portarà al següent:
+
+![Edició presupost](img/Carlos/solicitudpresupuesto.png)
+
+també us dóna l'opció d'enviar-ho per correu electrònic
+
+
+
 # Punts de venda
 
 # Events
@@ -206,5 +224,23 @@ Es mostren les **activitats pendents** i es poden **planificar activitts**.
 ![Visualització d'activitats](img/Yoon/Events%20021.%20Activitats.png) *. Activitats*
 
 # Costos
+
+![Llista pasos](img/Carlos/Listapresupustos.png)
+
+Quan entreu a aquest apartat per primera vegada us sortiran aquests passos perquè seguiu per poder fer la vostra facturació
+
+En començar a fer una facturació ens sortirà aquest menú, on ens deixarà posar l'adreça de la facturació, el telèfon mòbil de contacte, el correu electrònic i el lloc web. Finalment podràs posar el NIF i el registre de la companyia i quin tipus de moneda que utilitzes.
+
+![Configuració de les dades](img/Carlos/datosempresa.png)
+
+El pas següent és configurar el disseny del document.
+Tens 4 tipus de dissenys per seleccionar (light - boxed - clean - background)
+Després sortirà el logotip de la teva empresa que sortirà al document. Després podeu canviar els colors dels textos del fitxer. Seguit podràs canviar el tipus de lletra que utilitzarà el text, després el lema de la companyia i un peu de pàgina; finalment seleccionem el format del paper.
+A la part de la dreta t'anirà donant en exemple a temps real com quedarà la factura.
+
+![diseny del document](img/Carlos/diseñododcumento.png)
+
+Finalment ja us podràs donar a crear i la vostra factura es crearà correctament (per poder crear-la necessiteu tenir un diari).
+A la pàgina principal podràs veure una llista amb totes les factures que crees.
 
 # Planificació
