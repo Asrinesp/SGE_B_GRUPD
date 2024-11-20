@@ -107,6 +107,14 @@ En aquest cas, també podem importar registres, per si s'ha de fer algun manteni
 
 ![El primer que apareix en obrir el mòdul](img/Yoon/Events%20001.%20Lo%20primero%20que%20aparece.png) *. Primer contacte amb el mòdul d'events*
 
+## Crear events
+
+Per **crear events**, l'únic que hem de fer és omplir els camps que siguin necessaris, igual que en els mòduls anteriors.
+
+![Crear un nou event](img/Yoon/Events%20002.%20Crear%20event.png) *. Creació d'events*
+
+A la part superior dreta, podem seleccionar l'estat en el que es troba l'event. Això és interessant per la forma en la que es veuran despres les llistes dels events.
+
 # Costos
 
 # Planificació
