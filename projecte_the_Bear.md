@@ -4,5 +4,4 @@
 * Álvaro Huamani (D)
 * Yoon López (A)
 * Carlos Pérez (C)
-* Dani Touron (B)
 
