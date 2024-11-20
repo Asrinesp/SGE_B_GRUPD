@@ -133,6 +133,12 @@ Per correu electrònic, a més, podem afegir camps personalitzats, com el nom de
 
 ![Exemple de correu electrònic](img/Yoon/Events%20008.%20Valors%20personalitzats.png) *. Exemple de correu electrònic*
 
+## Preguntes
+
+A l'apartat preguntes, es pot configurar les **dades que es demana a l'usuari** en el formulari d'inscripció.
+
+![Exemple de formulari d'inscripció](img/Yoon/Events%20009.%20Formulari%20d'inscripció.png) *. Exemple de formulari d'inscripció*
+
 
 
 # Costos
