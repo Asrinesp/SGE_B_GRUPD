@@ -101,6 +101,12 @@ Al desplegable de configuració, podem veure diferents configuracions que podem 
 
 # Events
 
+En obrir per primer cop el mòdul d'events, surt buit.
+
+En aquest cas, també podem importar registres, per si s'ha de fer algun manteniment o migració.
+
+![El primer que apareix en obrir el mòdul](img/Yoon/Events%20001.%20Lo%20primero%20que%20aparece.png) *. Primer contacte amb el mòdul d'events*
+
 # Costos
 
 # Planificació
